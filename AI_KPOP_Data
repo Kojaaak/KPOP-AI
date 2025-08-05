@@ -3,21 +3,18 @@
     "name": "Jin",
     "sex": "Male",
     "age": 28,
-    "group": "BTS",
-    
+    "group": "BTS"
   },
   {
     "name": "Lisa",
     "sex": "Female",
     "age": 26,
     "group": "BLACKPINK"
-   
   },
   {
     "name": "Mark",
     "sex": "Male",
     "age": 25,
     "group": "NCT"
-  
   }
 ]
