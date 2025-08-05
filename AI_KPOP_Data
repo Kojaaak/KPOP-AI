@@ -4,20 +4,20 @@
     "sex": "Male",
     "age": 28,
     "group": "BTS",
-    "style": "Haha, I love to keep that a secret 😄"
+    
   },
   {
     "name": "Lisa",
     "sex": "Female",
     "age": 26,
     "group": "BLACKPINK"
-    "style": "Haha, 222222 😄"
+   
   },
   {
     "name": "Mark",
     "sex": "Male",
     "age": 25,
     "group": "NCT"
-    "style": "Haha, 33333 😄"
+  
   }
 ]
