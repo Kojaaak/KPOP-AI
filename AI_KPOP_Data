@@ -3,18 +3,21 @@
     "name": "Jin",
     "sex": "Male",
     "age": 28,
-    "group": "BTS"
+    "group": "BTS",
+    "profileImage": "https://raw.githubusercontent.com/Kojaaak/KPOP-AI/refs/heads/main/A3.png"
   },
   {
     "name": "Lisa",
     "sex": "Female",
     "age": 26,
-    "group": "BLACKPINK"
+    "group": "BLACKPINK",
+    "profileImage": "https://raw.githubusercontent.com/Kojaaak/KPOP-AI/refs/heads/main/A2.png"
   },
   {
     "name": "Mark",
     "sex": "Male",
     "age": 25,
-    "group": "NCT"
+    "group": "NCT",
+    "profileImage": "https://raw.githubusercontent.com/Kojaaak/KPOP-AI/refs/heads/main/A1.png"
   }
 ]
