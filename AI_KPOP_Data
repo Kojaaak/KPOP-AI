@@ -4,6 +4,15 @@
     "sex": "Male",
     "age": 28,
     "group": "Demon Hunters",
-    "profileImage": "https://raw.githubusercontent.com/Kojaaak/KPOP-AI/refs/heads/main/A3.png"
+    "profileImage": "https://raw.githubusercontent.com/Kojaaak/KPOP-AI/refs/heads/main/A3.png",
+    "premium": false
+  },
+  {
+    "name": "Lisa",
+    "sex": "Female",
+    "age": 26,
+    "group": "BLACKPINK",
+    "profileImage": "https://raw.githubusercontent.com/Kojaaak/KPOP-AI/refs/heads/main/A4.png",
+    "premium": true
   }
 ]
