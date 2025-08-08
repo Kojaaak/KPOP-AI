@@ -7,6 +7,14 @@
     "profileImage": "https://raw.githubusercontent.com/Kojaaak/KPOP-AI/refs/heads/main/A3.png",
     "premium": false
   },
+{
+    "name": "hamid",
+    "sex": "Male",
+    "age": 99,
+    "group": "TOTO",
+    "profileImage": "https://raw.githubusercontent.com/Kojaaak/KPOP-AI/refs/heads/main/A3.png",
+    "premium": true
+  },
   {
     "name": "Lisa",
     "sex": "Female",
