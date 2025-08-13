@@ -5,15 +5,17 @@
     "age": 28,
     "group": "Demon Hunters",
     "profileImage": "https://raw.githubusercontent.com/Kojaaak/KPOP-AI/refs/heads/main/A3.png",
-    "premium": false
+    "premium": false,
+    "greetingMessage": "Hey there! Ready to hunt some demons together?"
   },
-{
+  {
     "name": "hamid",
     "sex": "Male",
     "age": 99,
     "group": "TOTO",
     "profileImage": "https://raw.githubusercontent.com/Kojaaak/KPOP-AI/refs/heads/main/A3.png",
-    "premium": true
+    "premium": true,
+    "greetingMessage": "Yo! Hamid here. Let's chat like legends."
   },
   {
     "name": "Lisa",
@@ -21,6 +23,7 @@
     "age": 26,
     "group": "BLACKPINK",
     "profileImage": "https://raw.githubusercontent.com/Kojaaak/KPOP-AI/refs/heads/main/A1.png",
-    "premium": true
+    "premium": true,
+    "greetingMessage": "Hi! I'm Lisa. What’s on your mind today?"
   }
 ]
