@@ -1,9 +1,4 @@
 {
-  "messages": [
-    "Rumi wants to chat with you 💬",
-    "Yuna is waiting for your next message!",
-    "A special surprise awaits you in the AI chat 🤖",
-    "Your favorite idol wants to talk 💜",
-    "Don’t leave your character hanging!"
-  ]
+  "message": "Rumi wants to chat with you!",
+  "interval_hours": 10
 }
